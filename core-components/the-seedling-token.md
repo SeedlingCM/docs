@@ -61,3 +61,15 @@ The maximum funding amount per wallet in the Public round was **capped at $2,500
 
 All SDLN tokens from fundraising rounds have already been fully vested at the time of writing, hence there is no more inflationary pressure.
 
+
+## Token Deflationary Mechanism
+
+The Seedling Token is a Deflationary token, meaning it adopts burning mechanisms to reduce the total circulating supply of $SDLN. The creation of this deflationary pressure increases the value of all remaining SDLN tokens.
+
+### Burning Mechanisms
+
+**Burning SDLN for allocation**: Holders of $SDLN can choose to either Burn or Lock their tokens to receive an allocation in upcoming token offerings. Tokens which are burned will be directly sent out of the circulating supply into a “Burn Address” through our burning smart contract. This puts the tokens out of circulation indefinitely.
+
+**Buyback Burn on Launchpad fees**: Seedling charges a variable fee to projects for Public Sales held on our platform. This fee is usually a percentage of the total funds raised for their project on the Seedling platform. Seedling commits 2.5% of all funds raised on our platform to buying-back $SDLN from the open market, and burning them. This creates additional buying pressure with every Public Sale, and reduces the circulating supply, thus killing two birds with one stone.
+
+**Buyback Burn on FCFS Fees**: In the instances where the target amount is not raised within the allocation period of a token sale (typically 24 hours), launchpad investments will become available to everyone regardless of their allocation availability. Investors in this phase will pay a variable fee over market price. 100% of this fee will be used to buy back $SDLN from the open market, and to burn them, thus removing these tokens from the circulating supply.
