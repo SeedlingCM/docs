@@ -15,7 +15,7 @@ We have created a platform that incorporates pluggable solutions to the problems
 
 ### How does Seedling relate to [Cherry Network](https://cherry.network)?
 
-[Cherry Network ](https://cherry.network)is an exciting new blockchain infrasturcure. Since its inception, [Cherry ](https://cherry.network)has seen a huge demand from projects to build on its stack. This is why we are creating Seedling as a permissionless, self-managed launchpad to enable new projects to raise funds. Seedling aims to help and promote projects building on [Cherry](https://cherry.network), but also in the crypto ecosystem as a whole.
+[Cherry Network ](https://cherry.network)is an exciting new blockchain infrastructure. Since its inception, [Cherry ](https://cherry.network)has seen a huge demand from projects to build on its stack. This is why we are creating Seedling as a permissionless, self-managed launchpad to enable new projects to raise funds. Seedling aims to help and promote projects building on [Cherry](https://cherry.network), but also in the crypto ecosystem as a whole.
 
 ### **How can projects use Seedling?**
 

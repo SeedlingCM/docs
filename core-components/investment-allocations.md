@@ -27,6 +27,10 @@ Users who lock their SDLN will receive the same amount of tokens back at the end
 
 The SDLN to dollar conversion rate will be updated every hour. Unspent allocations will float with the value of the locked SDLN. If the current price of SDLN is lower than the price at the time of locking, the higher price will be considered.
 
+The allocation is **dispersed linearly**, hence it is recommended to lock your SDLN tokens ahead of time; before a token sale starts. This will allow you to accumulate enough allocation by the time the token sale begins. If you still do not have enough allocation or have not locked $SDLN by the time a token sale begins, you may choose to burn $SDLN to receive an immediate allocation top-up.
+
+
+
 #### Unlocking SDLN tokens:
 
 Users who have locked SDLN tokens may unlock them before the end of the locking term. If you do so, the allocation accrued so far will be considered as purchased through burning. You will receive your locked SDLN back minus the cost of the allocation you received so far. This amount is calculated with the following formula:

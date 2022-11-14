@@ -1,2 +1,0 @@
-# IDO Participation
-
